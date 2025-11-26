@@ -85,3 +85,10 @@ KeyCastr is completely free and open source, and does not employ any networking 
 [BSD 3-Clause](https://opensource.org/licenses/BSD-3-Clause)
 
 KeyCastr has been freely available for the Mac since 2009.
+## 中文版
+"I'm submitting a comprehensive Simplified Chinese localization for KeyCastr, covering the Main Menu, Preferences tabs (General, Display, Update), 和 all Visualizer settings. Thank you for this great tool!"
+“我正在提交 KeyCastr 的简体中文本地化版本，涵盖主菜单、首选项选项卡（常规、显示、更新）以及所有可视化设置。感谢你们开发出这么棒的工具！”
+点击右侧标签，有中文版的发行版本，解压后直接使用就行，喜欢的点个star吧，不明白的可以提交问题
+<img width="770" height="380" alt="6bd23ad68868ae1f828bb8b99477efaa" src="https://github.com/user-attachments/assets/fb36ccce-32dd-406b-b5d3-f7ded0cd8a8b" />
+<img width="760" height="1172" alt="697f963dd6e3bd862f5c572c6597e864" src="https://github.com/user-attachments/assets/8ad3bed8-92b1-4ad1-9eb0-fe64e23e6520" />
+<img width="958" height="534" alt="0674f7b75e9fa5fd6f5f70164dad98ef" src="https://github.com/user-attachments/assets/d0c485af-419b-4429-bb77-44ade71e6921" />
