@@ -1,4 +1,4 @@
-# KeyCastr
+# KeyCastr中文版
 
 KeyCastr, an open source keystroke visualizer.
 
