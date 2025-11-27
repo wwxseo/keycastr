@@ -1,0 +1,144 @@
+
+/* Class = "NSMenu"; title = "AMainMenu"; ObjectID = "29"; */
+"29.title" = "AMainMenu";
+
+/* Class = "NSMenuItem"; title = "KeyCastr"; ObjectID = "56"; */
+"56.title" = "KeyCastr";
+
+/* Class = "NSMenu"; title = "KeyCastr"; ObjectID = "57"; */
+"57.title" = "KeyCastr";
+
+/* Class = "NSMenuItem"; title = "About KeyCastr"; ObjectID = "58"; */
+"58.title" = "关于 KeyCastr";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "129"; */
+"129.title" = "偏好设置...";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "130"; */
+"130.title" = "服务";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; */
+"131.title" = "服务";
+
+/* Class = "NSMenuItem"; title = "Hide KeyCastr"; ObjectID = "134"; */
+"134.title" = "隐藏 KeyCastr";
+
+/* Class = "NSMenuItem"; title = "Quit KeyCastr"; ObjectID = "136"; */
+"136.title" = "退出 KeyCastr";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; */
+"145.title" = "隐藏 其他";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; */
+"150.title" = "展示全部";
+
+/* Class = "NSWindow"; title = "KeyCastr"; ObjectID = "371"; */
+"371.title" = "KeyCastr";
+
+/* Class = "NSMenuItem"; title = "About KeyCastr"; ObjectID = "378"; */
+"378.title" = "关于 KeyCastr";
+
+/* Class = "NSMenuItem"; title = "Preferences..."; ObjectID = "379"; */
+"379.title" = "偏好...";
+
+/* Class = "NSMenuItem"; title = "Quit KeyCastr"; ObjectID = "380"; */
+"380.title" = "退出 KeyCastr";
+
+/* Class = "NSTextFieldCell"; title = "Version 0.8.0"; ObjectID = "389"; */
+"389.title" = "版本 0.8.0";
+
+/* Class = "NSTextFieldCell"; title = "Copyright © 2009-2025 Stephen Deken, Andrew Kitchen, and contributors"; ObjectID = "393"; */
+"393.title" = "版权 © 2009-2025 Stephen Deken, Andrew Kitchen, and contributors";
+
+/* Class = "NSTabViewItem"; label = "General"; ObjectID = "403"; */
+"403.label" = "通用";
+
+/* Class = "NSTabViewItem"; label = "Display"; ObjectID = "404"; */
+"404.label" = "Display";
+
+/* Class = "NSTabViewItem"; label = "Update"; ObjectID = "408"; */
+"408.label" = "更新";
+
+/* Class = "NSTextFieldCell"; title = "Display KeyCastr icon:"; ObjectID = "419"; */
+"419.title" = "显示图标位置:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "422"; */
+"422.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "In the Menu Bar"; ObjectID = "423"; */
+"423.title" = "仅菜单栏";
+
+/* Class = "NSMenuItem"; title = "In the Dock"; ObjectID = "424"; */
+"424.title" = "仅程序坞";
+
+/* Class = "NSMenuItem"; title = "In the Menu Bar and Dock"; ObjectID = "425"; */
+"425.title" = "菜单栏和程序坞";
+
+/* Class = "NSTextFieldCell"; title = "Selected Visualizer:"; ObjectID = "428"; */
+"428.title" = "当前外观:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "431"; */
+"431.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "432"; */
+"432.title" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "433"; */
+"433.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "434"; */
+"434.title" = "Item 3";
+
+/* Class = "NSMenuItem"; title = "Start Casting"; ObjectID = "438"; */
+"438.title" = "开始按键可视化";
+
+/* Class = "NSButtonCell"; title = "Show preferences at launch"; ObjectID = "445"; */
+"445.title" = "启动时显示偏好设置";
+
+/* Class = "NSTextFieldCell"; title = "Toggle capturing:"; ObjectID = "447"; */
+"447.title" = "Toggle capturing:";
+
+/* Class = "NSButtonCell"; title = "Check for updates at startup"; ObjectID = "452"; */
+"452.title" = "Check for updates at startup";
+
+/* Class = "NSButtonCell"; title = "Check Now"; ObjectID = "454"; */
+"454.title" = "Check Now";
+
+/* Class = "NSTextFieldCell"; title = "Last checked:"; ObjectID = "456"; */
+"456.title" = "Last checked:";
+
+/* Class = "NSTextFieldCell"; title = "Never"; ObjectID = "458"; */
+"458.title" = "Never";
+
+/* Class = "NSButtonCell"; title = "Include anonymous system profile"; ObjectID = "460"; */
+"460.title" = "Include anonymous system profile";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "480"; */
+"480.title" = "File";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "481"; */
+"481.title" = "File";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "486"; */
+"486.title" = "Close";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Never"; ObjectID = "508"; */
+"508.ibShadowedIsNilPlaceholder" = "Never";
+
+/* Class = "NSMenuItem"; title = "Check For Updates"; ObjectID = "512"; */
+"512.title" = "Check For Updates";
+
+/* Class = "NSMenuItem"; title = "Start Casting"; ObjectID = "516"; */
+"516.title" = "Start Casting";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "Q6p-K6-yk8"; */
+"Q6p-K6-yk8.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "with pointer and visualizer"; ObjectID = "b75-G6-B4y"; */
+"b75-G6-B4y.title" = "with pointer and visualizer";
+
+/* Class = "NSTextFieldCell"; title = "Display Mouse Events:"; ObjectID = "rrC-bj-WMM"; */
+"rrC-bj-WMM.title" = "Display Mouse Events:";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "yqL-M9-9ZR"; */
+"yqL-M9-9ZR.title" = "Item 3";
